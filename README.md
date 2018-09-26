@@ -8,3 +8,6 @@ install.sh # 将dotfiles的配置 软连接到 本机
 script/homebrew_install.sh # 安装brew下应用
 
 script/requirements.txt # 常用Flask依赖
+
+Refer
+http://notes.11ten.net/use-dotfiles.html
