@@ -1,4 +1,4 @@
-# .dotfiles
+# dotfiles
 mac config 
 
 备份mac常用配置 bash_profile/vim/git
