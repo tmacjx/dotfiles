@@ -13,6 +13,7 @@ script/requirements.txt # 常用Flask依赖
 
 Refer
 > http://notes.11ten.net/use-dotfiles.html
+> https://sspai.com/post/43265
 
 恢复指南
 
