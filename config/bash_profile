@@ -3,6 +3,12 @@
 # The orginal version is saved in .bash_profile.pysave
 PATH="/Library/Frameworks/Python.framework/Versions/3.5/bin:${PATH}"
 export PATH
+
+# Shortcuts
+if [ -f ~/.aliases ]; then
+    . ~/.aliases
+fi
+
 alias ll='ls -l'
 alias la='ls -al'
 alias emacs="/usr/local/Cellar/emacs/26.1_1/Emacs.app/Contents/MacOS/Emacs -nw"
