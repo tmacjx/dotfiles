@@ -1,105 +1,105 @@
-Alfred.app
-App Store.app
-Automator.app
-BaiduNetdisk_mac.app
-Beyond Compare.app
-Caffeine.app
-Calculator.app
-Calendar.app
-Charles.app
-Chess.app
-CleanMyMac 3.app
-CodeRunner.app
-Contacts.app
-Cornerstone.app
-DVD Player.app
-Dash.app
-Dashboard.app
-Dictionary.app
-DingTalk.app
-Docker.app
-Dropbox.app
-Emacs.app
-Encrypto.app
-Evernote.app
-FaceTime.app
-Final Cut Pro.app
-Flux.app
-Font Book.app
-GarageBand.app
-Garmin Express.app
-Gemini 2.app
-Gifski.app
-Google Chrome.app
-HazeOver.app
-Image Capture.app
-IntelliJ IDEA.app
-Keynote.app
-Kindle.app
-Launchpad.app
-MWeb.app
-Mail.app
-Manico.app
-Maps.app
-Medis.app
-Messages.app
-Microsoft Excel.app
-Microsoft PowerPoint.app
-Microsoft Word.app
-Mission Control.app
-NeteaseMusic.app
-Notes.app
-Numbers.app
-PDF Expert.app
-Pages.app
-Parallels Desktop.app
-Photo Booth.app
-Photos.app
-Pixelmator.app
-Pocket.app
-Postgres.app
-Postman.app
-Preview.app
-Priime Styles.app
-PyCharm.app
+Alfred
+App Store
+Automator
+BaiduNetdisk_mac
+Beyond Compare
+Caffeine
+Calculator
+Calendar
+Charles
+Chess
+CleanMyMac 3
+CodeRunner
+Contacts
+Cornerstone
+DVD Player
+Dash
+Dashboard
+Dictionary
+DingTalk
+Docker
+Dropbox
+Emacs
+Encrypto
+Evernote
+FaceTime
+Final Cut Pro
+Flux
+Font Book
+GarageBand
+Garmin Express
+Gemini 2
+Gifski
+Google Chrome
+HazeOver
+Image Capture
+IntelliJ IDEA
+Keynote
+Kindle
+Launchpad
+MWeb
+Mail
+Manico
+Maps
+Medis
+Messages
+Microsoft Excel
+Microsoft PowerPoint
+Microsoft Word
+Mission Control
+NeteaseMusic
+Notes
+Numbers
+PDF Expert
+Pages
+Parallels Desktop
+Photo Booth
+Photos
+Pixelmator
+Pocket
+Postgres
+Postman
+Preview
+Priime Styles
+PyCharm
 Python 3.5
-QQ.app
-QuickTime Player.app
-Reeder.app
-Reminders.app
-Safari.app
-Sequel Pro.app
-ShadowsocksX.app
-Siri.app
-Slack.app
+QQ
+QuickTime Player
+Reeder
+Reminders
+Safari
+Sequel Pro
+ShadowsocksX
+Siri
+Slack
 Snip_V2.0.pkg
-SourceTree.app
-Spark.app
-StarUML.app
-Stickies.app
-Sublime Text.app
-System Preferences.app
-TaskPaper.app
-TeamViewer.app
-TextEdit.app
-The Unarchiver.app
-Thunder.app
-Time Machine.app
-Transmit.app
-Twitter.app
+SourceTree
+Spark
+StarUML
+Stickies
+Sublime Text
+System Preferences
+TaskPaper
+TeamViewer
+TextEdit
+The Unarchiver
+Thunder
+Time Machine
+Transmit
+Twitter
 Utilities
-Vagrant Manager.app
+Vagrant Manager
 VirtualBox.pkg
-Viscosity.app
-Viscosity.app.zip
-WeChat.app
-Wireshark.app
-Xcode.app
-Zoommy.app
-iBooks.app
-iDocument Lite.app
-iHosts.app
-iMovie.app
-iTerm.app
-iTunes.app
-mpv.app
+Viscosity
+Viscosity.zip
+WeChat
+Wireshark
+Xcode
+Zoommy
+iBooks
+iDocument Lite
+iHosts
+iMovie
+iTerm
+iTunes
+mpv
