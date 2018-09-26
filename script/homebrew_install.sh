@@ -28,3 +28,12 @@ for i in "${array[@]}"
 do
     brew install $i
 done
+
+caskapps=（
+  docker
+)
+
+for i in "${caskapps[@]}"
+do
+    brew install $i
+done
