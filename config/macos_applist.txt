@@ -1,106 +1,105 @@
-	 total 189000
-root	 drwxr-xr-x   3 root     wheel        96  1 10  2018 NeteaseMusic.app
-root	 drwxr-xr-x   3 root     wheel        96  3  5  2016 Alfred.app
-root	 drwxr-xr-x   3 root     wheel        96  3 20  2018 TeamViewer.app
-root	 drwxr-xr-x   3 root     wheel        96  3 29  2017 Twitter.app
-root	 drwxr-xr-x   3 root     wheel        96  4 11 17:27 iMovie.app
-root	 drwxr-xr-x   3 root     wheel        96  4 20  2016 Caffeine.app
-root	 drwxr-xr-x   3 root     wheel        96  4 20  2016 iDocument Lite.app
-root	 drwxr-xr-x   3 root     wheel        96  5 24 13:51 Kindle.app
-root	 drwxr-xr-x   3 root     wheel        96  6  6 11:30 Xcode.app
-root	 drwxr-xr-x   3 root     wheel        96  6 12 12:19 Evernote.app
-root	 drwxr-xr-x   3 root     wheel        96  6 19 09:19 The Unarchiver.app
-root	 drwxr-xr-x   3 root     wheel        96  6 21 19:30 Garmin Express.app
-root	 drwxr-xr-x   3 root     wheel        96  6 30 13:07 MWeb.app
-root	 drwxr-xr-x   3 root     wheel        96  8  4  2016 Dash.app
-root	 drwxr-xr-x   3 root     wheel        96  8 31 09:35 WeChat.app
-root	 drwxr-xr-x   3 root     wheel        96  9 18 17:19 Manico.app
-root	 drwxr-xr-x   3 root     wheel        96  9 18 17:23 Encrypto.app
-root	 drwxr-xr-x   3 root     wheel        96  9 18 17:23 Numbers.app
-root	 drwxr-xr-x   3 root     wheel        96  9 18 17:24 Keynote.app
-root	 drwxr-xr-x   3 root     wheel        96  9 18 17:27 Pages.app
-root	 drwxr-xr-x   3 root     wheel        96  9 21 10:00 Pocket.app
-root	 drwxr-xr-x   3 root     wheel        96  9 24 17:44 Gifski.app
-root	 drwxr-xr-x   3 root     wheel        96  9 25 17:46 QQ.app
-root	 drwxr-xr-x   3 root     wheel        96  9 26 11:10 Reeder.app
-root	 drwxr-xr-x   3 root     wheel        96  9 26 11:10 Spark.app
-root	 drwxr-xr-x   3 root     wheel        96  9 26 17:46 HazeOver.app
-root	 drwxr-xr-x   3 root     wheel        96 12  6  2017 Medis.app
-root	 drwxr-xr-x   3 root     wheel        96 12  6  2017 iHosts.app
-root	 drwxr-xr-x   9 root     wheel       288  9 26  2017 Python 3.5
-root	 drwxr-xr-x+ 23 root     admin       736  9 12 22:15 Utilities
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 App Store.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Automator.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Calculator.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Calendar.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Chess.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Contacts.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 DVD Player.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Dashboard.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Dictionary.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 FaceTime.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Font Book.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Image Capture.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Launchpad.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Mail.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Maps.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Messages.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Mission Control.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Notes.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Photo Booth.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Photos.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Preview.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 QuickTime Player.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Reminders.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Safari.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Siri.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Stickies.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 System Preferences.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 TextEdit.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 Time Machine.app
-root	 drwxr-xr-x@  3 root     wheel        96  5 12 16:35 iBooks.app
-root	 drwxr-xr-x@  3 root     wheel        96  7 10 11:05 iTunes.app
-root	 drwxr-xr-x@  4 root     wheel       128 10  8  2016 Parallels Desktop.app
-root	 drwxrwxr-x   3 root     admin        96  7  5 09:40 GarageBand.app
-root	 drwxrwxr-x   3 root     admin        96 12 26  2017 Wireshark.app
-root	 drwxrwxr-x   3 root     wheel        96  7  9  2017 Microsoft Excel.app
-root	 drwxrwxr-x   3 root     wheel        96  7  9  2017 Microsoft PowerPoint.app
-root	 drwxrwxr-x   3 root     wheel        96  7  9  2017 Microsoft Word.app
-tmackan	 -rw-r--r--   1 tmackan  admin   3981463  4 28 15:59 Viscosity.app.zip
-tmackan	 -rw-r--r--@  1 tmackan  admin   2550256 12  5  2012 Snip_V2.0.pkg
-tmackan	 -rw-r--r--@  1 tmackan  admin  89918058  7 27  2017 VirtualBox.pkg
-tmackan	 drwxr-xr-x   3 tmackan  admin        96  4 20  2016 StarUML.app
-tmackan	 drwxr-xr-x   3 tmackan  admin        96  4 28 14:52 CleanMyMac 3.app
-tmackan	 drwxr-xr-x   3 tmackan  admin        96  7 25 10:01 TaskPaper.app
-tmackan	 drwxr-xr-x   3 tmackan  admin        96  8 16  2016 Thunder.app
-tmackan	 drwxr-xr-x   3 tmackan  admin        96  8 21 20:40 PDF Expert.app
-tmackan	 drwxr-xr-x   3 tmackan  admin        96  9 26 15:32 Dropbox.app
-tmackan	 drwxr-xr-x   3 tmackan  admin        96 10  7  2016 Gemini 2.app
-tmackan	 drwxr-xr-x   3 tmackan  admin        96 11 25  2016 Sublime Text.app
-tmackan	 drwxr-xr-x   3 tmackan  staff        96  1 20  2016 mpv.app
-tmackan	 drwxr-xr-x   3 tmackan  staff        96  3 17  2016 Beyond Compare.app
-tmackan	 drwxr-xr-x   3 tmackan  staff        96  4  5  2017 Flux.app
-tmackan	 drwxr-xr-x   3 tmackan  staff        96  4 25 15:37 DingTalk.app
-tmackan	 drwxr-xr-x   3 tmackan  staff        96  5  1 00:03 Docker.app
-tmackan	 drwxr-xr-x   3 tmackan  staff        96  7 10  2016 CodeRunner.app
-tmackan	 drwxr-xr-x   3 tmackan  staff        96  8 17  2016 Postgres.app
-tmackan	 drwxr-xr-x   3 tmackan  staff        96  8 29 16:38 Slack.app
-tmackan	 drwxr-xr-x   3 tmackan  staff        96  9 20 18:27 iTerm.app
-tmackan	 drwxr-xr-x   3 tmackan  staff        96  9 22  2016 Postman.app
-tmackan	 drwxr-xr-x   3 tmackan  staff        96 12  7  2016 Zoommy.app
-tmackan	 drwxr-xr-x@  3 tmackan  admin        96  1  1  2014 Transmit.app
-tmackan	 drwxr-xr-x@  3 tmackan  admin        96  1 17  2017 Viscosity.app
-tmackan	 drwxr-xr-x@  3 tmackan  admin        96  2 20  2016 Sequel Pro.app
-tmackan	 drwxr-xr-x@  3 tmackan  admin        96  2 26  2015 Cornerstone.app
-tmackan	 drwxr-xr-x@  3 tmackan  admin        96  3  4  2016 SourceTree.app
-tmackan	 drwxr-xr-x@  3 tmackan  admin        96  3  6  2015 ShadowsocksX.app
-tmackan	 drwxr-xr-x@  3 tmackan  admin        96  5 22  2014 Pixelmator.app
-tmackan	 drwxr-xr-x@  3 tmackan  admin        96  5 25  2017 BaiduNetdisk_mac.app
-tmackan	 drwxr-xr-x@  3 tmackan  admin        96  6  5 07:46 Final Cut Pro.app
-tmackan	 drwxr-xr-x@  3 tmackan  admin        96  6 22  2016 Priime Styles.app
-tmackan	 drwxr-xr-x@  3 tmackan  admin        96  9 20  2016 Charles.app
-tmackan	 drwxr-xr-x@  3 tmackan  admin        96 10 20  2017 PyCharm.app
-tmackan	 drwxr-xr-x@  3 tmackan  admin        96 11  7  2017 Vagrant Manager.app
-tmackan	 drwxr-xr-x@  3 tmackan  admin        96 12  9  2016 IntelliJ IDEA.app
-tmackan	 drwxrwxr-x@  3 tmackan  admin        96  9 15 16:30 Google Chrome.app
-tmackan	 lrwxr-xr-x   1 tmackan  admin        40  6  6 16:29 Emacs.app -> /usr/local/Cellar/emacs/26.1_1/Emacs.app
+Alfred.app
+App Store.app
+Automator.app
+BaiduNetdisk_mac.app
+Beyond Compare.app
+Caffeine.app
+Calculator.app
+Calendar.app
+Charles.app
+Chess.app
+CleanMyMac 3.app
+CodeRunner.app
+Contacts.app
+Cornerstone.app
+DVD Player.app
+Dash.app
+Dashboard.app
+Dictionary.app
+DingTalk.app
+Docker.app
+Dropbox.app
+Emacs.app
+Encrypto.app
+Evernote.app
+FaceTime.app
+Final Cut Pro.app
+Flux.app
+Font Book.app
+GarageBand.app
+Garmin Express.app
+Gemini 2.app
+Gifski.app
+Google Chrome.app
+HazeOver.app
+Image Capture.app
+IntelliJ IDEA.app
+Keynote.app
+Kindle.app
+Launchpad.app
+MWeb.app
+Mail.app
+Manico.app
+Maps.app
+Medis.app
+Messages.app
+Microsoft Excel.app
+Microsoft PowerPoint.app
+Microsoft Word.app
+Mission Control.app
+NeteaseMusic.app
+Notes.app
+Numbers.app
+PDF Expert.app
+Pages.app
+Parallels Desktop.app
+Photo Booth.app
+Photos.app
+Pixelmator.app
+Pocket.app
+Postgres.app
+Postman.app
+Preview.app
+Priime Styles.app
+PyCharm.app
+Python 3.5
+QQ.app
+QuickTime Player.app
+Reeder.app
+Reminders.app
+Safari.app
+Sequel Pro.app
+ShadowsocksX.app
+Siri.app
+Slack.app
+Snip_V2.0.pkg
+SourceTree.app
+Spark.app
+StarUML.app
+Stickies.app
+Sublime Text.app
+System Preferences.app
+TaskPaper.app
+TeamViewer.app
+TextEdit.app
+The Unarchiver.app
+Thunder.app
+Time Machine.app
+Transmit.app
+Twitter.app
+Utilities
+Vagrant Manager.app
+VirtualBox.pkg
+Viscosity.app
+Viscosity.app.zip
+WeChat.app
+Wireshark.app
+Xcode.app
+Zoommy.app
+iBooks.app
+iDocument Lite.app
+iHosts.app
+iMovie.app
+iTerm.app
+iTunes.app
+mpv.app
