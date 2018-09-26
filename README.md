@@ -18,6 +18,6 @@ Refer
 
 ```
 $ cd ~
-$ git clone https://github.com/coderzh/dotfiles.git
+$ git clone https://github.com/tmacjx/dotfiles.git
 $ source dotfiles/install.sh
 ```
