@@ -85,7 +85,7 @@ olefile==0.44
 oss2==2.3.0
 packaging==16.8
 pbr==2.1.0
-Pillow==4.1.1
+Pillow==8.1.1
 pluggy==0.6.0
 prometheus-client==0.3.0
 py==1.5.2
